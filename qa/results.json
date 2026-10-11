@@ -1,0 +1,125 @@
+{
+ "errors": [],
+ "checks": {
+  "desktop": {
+   "console_errors": [],
+   "page_errors": [],
+   "overflow": 0,
+   "images": [
+    {
+     "src": "tearoff-progress.webp",
+     "ok": true,
+     "w": 1920
+    },
+    {
+     "src": "truck-1972.webp",
+     "ok": true,
+     "w": 1920
+    },
+    {
+     "src": "truck-2026.webp",
+     "ok": true,
+     "w": 1920
+    },
+    {
+     "src": "tech-portrait.webp",
+     "ok": true,
+     "w": 1280
+    },
+    {
+     "src": "before-damage.webp",
+     "ok": true,
+     "w": 1920
+    },
+    {
+     "src": "after-newroof.webp",
+     "ok": true,
+     "w": 1920
+    }
+   ],
+   "bad_anchors": [],
+   "cta_depth_vh": 0.52,
+   "form_top_vh": 0.2,
+   "asks_in_hero": {
+    "form": 1,
+    "tel": 1,
+    "otherCtas": 1
+   },
+   "fonts": [
+    "Rokkitt:loaded",
+    "IBM Plex Mono:loaded",
+    "IBM Plex Mono:loaded"
+   ],
+   "rv_hidden_after_3.8s": 0,
+   "wipe_hidden_after_3.8s": 0,
+   "cta_colors": [
+    "rgb(158, 76, 18)",
+    "rgb(255, 255, 255)"
+   ]
+  },
+  "mobile": {
+   "console_errors": [],
+   "page_errors": [],
+   "overflow": 0,
+   "images": [
+    {
+     "src": "tearoff-progress.webp",
+     "ok": true,
+     "w": 1920
+    },
+    {
+     "src": "truck-1972.webp",
+     "ok": true,
+     "w": 1920
+    },
+    {
+     "src": "truck-2026.webp",
+     "ok": true,
+     "w": 1920
+    },
+    {
+     "src": "tech-portrait.webp",
+     "ok": true,
+     "w": 1280
+    },
+    {
+     "src": "before-damage.webp",
+     "ok": true,
+     "w": 1920
+    },
+    {
+     "src": "after-newroof.webp",
+     "ok": true,
+     "w": 1920
+    }
+   ],
+   "bad_anchors": [],
+   "cta_depth_vh": 1.15,
+   "form_top_vh": 0.81,
+   "asks_in_hero": {
+    "form": 1,
+    "tel": 1,
+    "otherCtas": 0
+   },
+   "fonts": [
+    "Rokkitt:loaded",
+    "IBM Plex Mono:loaded",
+    "IBM Plex Mono:loaded"
+   ],
+   "rv_hidden_after_3.8s": 0,
+   "wipe_hidden_after_3.8s": 0,
+   "cta_colors": [
+    "rgb(158, 76, 18)",
+    "rgb(255, 255, 255)"
+   ]
+  },
+  "jsoff": {
+   "phone": true,
+   "services": true,
+   "prices": true,
+   "email": true,
+   "stepper_visible": true
+  }
+ },
+ "cta_contrast_ratio": 6.01
+}
